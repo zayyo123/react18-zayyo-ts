@@ -6,11 +6,7 @@ interface IProps {
 }
 
 const Discover: FC<IProps> = () => {
-  return (
-    <div>
-      <div>aaa</div>
-    </div>
-  )
+  return <div>嗷嗷嗷</div>
 }
 
 export default memo(Discover)
